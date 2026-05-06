@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 - 💻 Full-stack developer with experience in **real-world production systems**
