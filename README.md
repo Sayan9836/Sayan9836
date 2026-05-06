@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sayan Maity</h1>
+<div align="center">
 
-<p align="center">
+<h1>Hi 👋, I'm Sayan Maity</h1>
+
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Systems;Real-time+Applications;Clean+Architecture" />
 </p>
 
-<p align="center">
+<p>
   Building scalable systems • Real-time apps • Clean architecture
 </p>
+
+</div>
 
 ---
 
