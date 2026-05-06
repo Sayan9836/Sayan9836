@@ -85,8 +85,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&hide_border=true&theme=default&cache_seconds=1800" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan9836&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&hide_border=true&theme=default&cache_seconds=1800&v=1" />
+<br/>
+<img height="140" src="https://streak-stats.demolab.com?user=Sayan9836&hide_border=true&theme=default" />
 
 </div>
