@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Sayan Maity</h1>
+<h2>Hi 👋, I'm Sayan Maity</h2>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Systems;Real-time+Applications;Clean+Architecture" />
