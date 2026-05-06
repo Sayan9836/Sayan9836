@@ -1,7 +1,7 @@
 <div align="center">
 
-<p align="center" style="font-size: 82px; font-weight: 800; color: #c9d1d9; margin-bottom: 10px;">
-  Hi 👋, I'm Sayan Maity
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sayan+Maity" />
 </p>
 
 <p>
