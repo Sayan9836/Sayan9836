@@ -13,9 +13,9 @@
 </p>
 
 <!-- Visitor Count Badge -->
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=Sayan9836&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 </div>
 
