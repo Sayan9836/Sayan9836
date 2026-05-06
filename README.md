@@ -74,6 +74,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan9836&show_icons=true&theme=cobalt&layout=compact" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Sayan9836&theme=tokyonight&hide_border=true" />
