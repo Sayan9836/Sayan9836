@@ -84,19 +84,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan9836&layout=compact&hide_border=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF" alt="Top Languages" />
-  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan9836&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
   
-  <!-- Stats & Streak Side by Side -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&hide_border=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF" alt="Sayan's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan9836&hide_border=true&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="Sayan's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" alt="Sayan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan9836&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="Sayan's GitHub Streak" />
+
 </div>
