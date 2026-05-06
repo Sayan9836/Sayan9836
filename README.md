@@ -12,6 +12,11 @@
   Building scalable systems • Real-time apps • Clean architecture
 </p>
 
+<!-- Visitor Count Badge -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sayan9836&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+</p>
+
 </div>
 
 ---
