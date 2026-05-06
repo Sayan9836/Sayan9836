@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center" style="font-size: 42px; font-weight: 800; color: #c9d1d9; margin-bottom: 10px;">
+<p align="center" style="font-size: 82px; font-weight: 800; color: #c9d1d9; margin-bottom: 10px;">
   Hi 👋, I'm Sayan Maity
 </p>
 
