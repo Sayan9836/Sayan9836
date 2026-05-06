@@ -85,8 +85,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan9836&show_icons=true&hide_border=true&theme=default&cache_seconds=1800" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan9836&layout=compact&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan9836&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
 
 </div>
