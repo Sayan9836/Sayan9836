@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sayan+Maity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sayan" />
 </p>
 
 <p>
