@@ -85,11 +85,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Sayan9836&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
+  <!-- Top Row: Top Languages & Stats (Side-by-Side) -->
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs?username=Sayan9836&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Sayan9836&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" alt="Sayan's GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.shion.dev/api?username=Sayan9836&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" alt="Sayan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Sayan9836&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="Sayan's GitHub Streak" />
+  <!-- Bottom Row: Streak Stats -->
+  <img height="190" src="https://streak-stats.demolab.com?user=Sayan9836&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="Sayan's GitHub Streak" />
 
 </div>
